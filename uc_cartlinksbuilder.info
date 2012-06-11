@@ -1,0 +1,4 @@
+name = Ubercart Cart Links Builder Tool
+core = 6.x
+
+dependencies[] = uc_cart_links
